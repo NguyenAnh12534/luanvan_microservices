@@ -1,0 +1,17 @@
+.correct {
+    background: green !important;
+}
+
+.wrong {
+    background: red !important;
+}
+
+.correct-and-disable {
+    background: green !important;
+    opacity: 0.3 !important;
+}
+
+.disable {
+    background: grey !important;
+    opacity: 0.5 !important;
+}
